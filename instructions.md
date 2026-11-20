@@ -1,7 +1,7 @@
 # Workshop 3: run the trip-settlement agent
 
-This implements the **first session**, Workshop 3 in `workshop-plan.md`, not the
-Workshop 4 optimization exercise. All trip data is fictional.
+This implements the **first session**, Workshop 3 in `workshop-plan.md`; the
+Workshop 4 efficient agent is summarized near the end. All trip data is fictional.
 
 ## Files and prerequisites
 
@@ -100,6 +100,24 @@ Record the baseline in `sample1\scorecard.md`: actual runtime, observed requests
 and calls, usage where available, and independently reviewed quality. Keep any
 instructor answer key outside the workspace. Use a fresh session for comparison
 runs; this sample does not supply Workshop 4's large or unseen trips.
+
+## Workshop 4: the efficient agent
+
+`workshop4finalagent.md` (selectable as **workshop4finalagent**) keeps the
+Workshop 3 accuracy rules but applies the three experiments: one read-only
+pre-filter call for rules, candidate chat lines and all receipts; a fixed budget
+of about six tool calls with a compact ledger and one `settle.py` run; and no
+pinned model, so pairs compare models in fresh sessions with identical prompts.
+Name the trip folder in the prompt, for example:
+
+```text
+Settle the trip in sample1 using the workshop4finalagent contract.
+```
+
+Run Workshop 3 first for the baseline, then Workshop 4 on the same trip and on a
+holdout trip. Record both in a before/after scorecard; speed counts only if the
+transfers are unchanged and exactly correct. Optionally rerun with a stronger
+model and the prompt `review flagged` to re-examine only duplicates and questions.
 
 ## Documentation
 
