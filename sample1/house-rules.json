@@ -1,0 +1,17 @@
+{
+  "participants": ["Arjun", "Meera", "Priya", "Rahul", "Dev"],
+  "base_currency": "INR",
+  "inr_per_unit": {"INR": "1", "USD": "83.00"},
+  "policy": [
+    "Use only these five participants. Include the payer in a split if they consumed the item.",
+    "Split confirmed shared expenses equally among explicitly confirmed consumers.",
+    "For itemized meals, split each category among its confirmed consumers. Drinks-only diners do not share food.",
+    "Explicit first-hand accounts of a shared expense or an itemized receipt can confirm participation. Uncertain third-party attendance reports require confirmation; paying alone does not prove attendance.",
+    "Merge sources only when payer, amount, currency, date and expense context identify the same expense. Equal amounts alone do not imply duplicates.",
+    "Use the stated USD conversion rate for this fictional workshop, not a live exchange rate.",
+    "Exclude any expense whose exact amount, payer or participant set remains unresolved. Ask a source-linked question; never estimate or silently assume.",
+    "Convert each ledger row to paise with ROUND_HALF_UP. Allocate weighted shares by largest remainder; ties follow participants order.",
+    "Balances from confirmed items are provisional until the group answers all questions and approves the settlement.",
+    "Do not modify input files, contact anyone or initiate payments."
+  ]
+}

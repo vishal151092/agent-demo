@@ -1,0 +1,9 @@
+Receipt ID: R002
+Vendor: Sunset Table (fictional)
+Service date: 2026-11-14
+Food subtotal: INR 2400.00
+Drinks subtotal: INR 800.00
+Total: INR 3200.00
+Paid by: Meera
+Subtotals include all taxes and service charges.
+Payment status: paid

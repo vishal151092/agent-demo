@@ -1,0 +1,8 @@
+Receipt ID: R001
+Vendor: Fictional Goa Cab Co
+Service date: 2026-11-14
+Route: airport to hostel
+Total: INR 1500.00
+Paid by: Arjun
+Passengers: Arjun, Meera, Priya, Rahul, Dev
+Payment status: paid

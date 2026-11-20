@@ -1,0 +1,8 @@
+Receipt ID: R003
+Vendor: Fictional Palm Hostel
+Stay: 2026-11-14 to 2026-11-16 (two nights)
+Booking total: USD 100.00
+Paid by: Dev
+Guests: Arjun, Meera, Priya, Rahul, Dev
+Payment status: paid
+No additional fees or deposits.
