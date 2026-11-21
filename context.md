@@ -20,9 +20,23 @@ Do **not** show `settle.py` or any agent file yet.
 Conventions below: **SAY** = speaking notes (paraphrase freely), **DO** = action,
 **ASK** = question to the room, **⚖ JUDGMENT** = where a human had to decide.
 
+## Quick run sheet (present from this; expand a part only if you need the detail)
+
+| Time | Do | Key line |
+|---|---|---|
+| 0–4 | Show `sample1`. Read the four house rules aloud and point out the fixed USD rate of 83.00. Have pairs guess the total, but don't reveal it. | "Without rules, two careful people settle this trip differently." |
+| 4–14 | Fill the ledger: **R001 + M001** merge ⚖ · **M006** separate ride ⚖ · **R002** food 2,400 split 4 ways, drinks 800 split 5 ways; Priya had drinks only ⚖⚖⚖ · **R003** USD 100 × 83 = 8,300 ⚖ · **R004** merge · **boat, fuel** become questions ⚖⚖ | "Seven ⚖ marks, and none of them is arithmetic." |
+| 14–20 | Work Priya live: paid 1,000, share 2,620, **owes 1,620**. Pairs do the rest. Check that balances add to 0 and shares add to 15,500. | "Paid minus share. That part is mechanical." |
+| +0.5 | Bridge to stage 1. | "The model reasons, a tool calculates." |
+
+Confirmed total **₹15,500**. The answer key is in Part 3.
+
 ---
 
 ## Part 1 — Share the story and the sample (0–4 min)
+
+<details>
+<summary>Full notes for Part 1</summary>
 
 **SAY:**
 > "Five friends, Arjun, Meera, Priya, Rahul and Dev, just got back from a weekend in
@@ -68,9 +82,14 @@ answers: ₹19,900 if they include the boat and "~2k" fuel, ₹18,700 if they ad
 the dinner twice; the confirmed total is ₹15,500).
 Do not reveal the right answer yet.
 
+</details>
+
 ---
 
 ## Part 2 — Fill the ledger one receipt at a time (4–14 min)
+
+<details>
+<summary>Full notes for Part 2</summary>
 
 **SAY:**
 > "The method: take one receipt, find every chat message about the same expense,
@@ -199,9 +218,14 @@ message so you can say coverage is complete."
 > rate, and twice refusing to guess. None of that is arithmetic. That is the part
 > an agent can help with, as long as it shows its evidence and asks when unsure."
 
+</details>
+
 ---
 
 ## Part 3 — Compute each person's balance (14–20 min)
+
+<details>
+<summary>Full notes for Part 3</summary>
 
 **SAY:**
 > "Now the mechanical part. For each person: **balance = what they paid − their
@@ -273,6 +297,8 @@ will change it once the group answers.
 
 **ASK:** "Who got exactly these numbers?" Usually not everyone. **ASK:** "Was
 the disagreement about the arithmetic, or the ledger?" It's almost always the ledger.
+
+</details>
 
 ---
 
