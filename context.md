@@ -25,8 +25,8 @@ Conventions below: **SAY** = speaking notes (paraphrase freely), **DO** = action
 | Time | Do | Key line |
 |---|---|---|
 | 0–4 | Show `sample1`. Read the four house rules aloud and point out the fixed USD rate of 83.00. Have pairs guess the total, but don't reveal it. | "Without rules, two careful people settle this trip differently." |
-| 4–14 | Fill the ledger: **R001 + M001** merge ⚖ · **M006** separate ride ⚖ · **R002** food 2,400 split 4 ways, drinks 800 split 5 ways; Priya had drinks only ⚖⚖⚖ · **R003** USD 100 × 83 = 8,300 ⚖ · **R004** merge · **boat, fuel** become questions ⚖⚖ | "Seven ⚖ marks, and none of them is arithmetic." |
-| 14–20 | Work Priya live: paid 1,000, share 2,620, **owes 1,620**. Pairs do the rest. Check that balances add to 0 and shares add to 15,500. | "Paid minus share. That part is mechanical." |
+| 4–14 | Fill the ledger: **R001 + M001** merge ⚖ · **M006** separate ride ⚖ · **R002** food 2,400 split 4 ways, drinks 800 split 5 ways; Prem had drinks only ⚖⚖⚖ · **R003** USD 100 × 83 = 8,300 ⚖ · **R004** merge · **boat, fuel** become questions ⚖⚖ | "Seven ⚖ marks, and none of them is arithmetic." |
+| 14–20 | Work Prem live: paid 1,000, share 2,620, **owes 1,620**. Pairs do the rest. Check that balances add to 0 and shares add to 15,500. | "Paid minus share. That part is mechanical." |
 | +0.5 | Bridge to stage 1. | "The model reasons, a tool calculates." |
 
 Confirmed total **₹15,500**. The answer key is in Part 3.
@@ -39,7 +39,7 @@ Confirmed total **₹15,500**. The answer key is in Part 3.
 <summary>Full notes for Part 1</summary>
 
 **SAY:**
-> "Five friends, Arjun, Meera, Priya, Rahul and Dev, just got back from a weekend in
+> "Five friends, Arjun, Meera, Prem, Rahul and Dev, just got back from a weekend in
 > Goa, 14–15 November. Nobody used a split app. All we have is the group chat,
 > four receipt notes that someone saved, and a short list of house rules they
 > agreed on. Someone has to work out who owes whom. Everyone in this room has
@@ -137,21 +137,21 @@ R001. An over-eager deduplicator silently loses ₹1,500 here."
 
 - **Receipt:** Meera, total INR 3200.00 = **food 2400.00 + drinks 800.00**, 14 Nov.
   The receipt does not list diners.
-- **Chat:** M002 (Meera paid 3200 for dinner), M003 (Priya: *"I only had drinks.
+- **Chat:** M002 (Meera paid 3200 for dinner), M003 (Prem: *"I only had drinks.
   Arjun, Meera, Rahul and Dev had the food. All five shared the drinks."*), M010
   (Meera: the receipt is *"the same dinner… not a second charge"*).
 - **Decisions:**
   1. M002, M010 and R002 are **one** dinner. Count ₹3,200 once, not two or three times.
   2. The receipt is itemized, so split it into **two rows** by category (rule 2).
-  3. Who shared what comes from M003. It is a first-hand account from Priya
+  3. Who shared what comes from M003. It is a first-hand account from Prem
      about her own consumption, and it names everyone. That is enough to confirm it.
 
-| E2 | Dinner – food | Meera | INR 2400.00 | 2400.00 | Arjun, Meera, Rahul, Dev | M002, M003, M010, R002 | Priya excluded (drinks only) |
+| E2 | Dinner – food | Meera | INR 2400.00 | 2400.00 | Arjun, Meera, Rahul, Dev | M002, M003, M010, R002 | Prem excluded (drinks only) |
 | E3 | Dinner – drinks | Meera | INR 800.00 | 800.00 | All 5 | M002, M003, M010, R002 | |
 
 **⚖ JUDGMENT (three times):** (a) three sources, one expense; (b) splitting one
 bill into two rows; (c) trusting M003 as first-hand evidence. **SAY:** "An equal
-five-way split of ₹3,200 is the most common mistake here. It overcharges Priya ₹480."
+five-way split of ₹3,200 is the most common mistake here. It overcharges Prem ₹480."
 
 ### Receipt R003: hostel (USD)
 
@@ -167,12 +167,12 @@ use different live rates, you get different answers. The rate belongs in the rul
 
 ### Receipt R004: breakfast
 
-- **Receipt:** Priya, INR 1000.00, 15 Nov, all five diners.
+- **Receipt:** Prem, INR 1000.00, 15 Nov, all five diners.
 - **Chat:** M005 matches it exactly and says "split equally."
 - **Decision:** Merge into one row. Nothing unusual. **SAY:** "Not every item is a trap.
   Recognizing the easy ones quickly also matters."
 
-| E5 | Breakfast | Priya | INR 1000.00 | 1000.00 | All 5 | M005, R004 | merged duplicate |
+| E5 | Breakfast | Prem | INR 1000.00 | 1000.00 | All 5 | M005, R004 | merged duplicate |
 
 ### Chat-only claims with no receipt: these become questions, not rows
 
@@ -206,7 +206,7 @@ message so you can say coverage is complete."
 | E2 | Dinner – food | Meera | 2,400 | Arjun, Meera, Rahul, Dev |
 | E3 | Dinner – drinks | Meera | 800 | All 5 |
 | E4 | Hostel (USD 100 × 83) | Dev | 8,300 | All 5 |
-| E5 | Breakfast | Priya | 1,000 | All 5 |
+| E5 | Breakfast | Prem | 1,000 | All 5 |
 | E6 | Return cab | Arjun | 1,500 | All 5 |
 | | **Total confirmed** | | **15,500** | |
 
@@ -232,21 +232,21 @@ message so you can say coverage is complete."
 > share of what they consumed.** Positive means they receive money; negative means
 > they owe."
 
-### Worked example: Priya
+### Worked example: Prem
 
-**DO:** Work this out live on the board. Priya is a good example because the
+**DO:** Work this out live on the board. Prem is a good example because the
 dinner split affects her.
 
-**Step 1: what Priya paid.**
+**Step 1: what Prem paid.**
 
 | Row | Paid |
 |---|---:|
 | E5 Breakfast | 1,000 |
 | **Total paid** | **1,000** |
 
-**Step 2: Priya's share of each row she consumed** (amount ÷ number of sharers).
+**Step 2: Prem's share of each row she consumed** (amount ÷ number of sharers).
 
-| Row | Calculation | Priya's share |
+| Row | Calculation | Prem's share |
 |---|---|---:|
 | E1 Airport cab | 1,500 ÷ 5 | 300 |
 | E2 Dinner – food | not a sharer | 0 |
@@ -256,10 +256,10 @@ dinner split affects her.
 | E6 Return cab | 1,500 ÷ 5 | 300 |
 | **Total share** | | **2,620** |
 
-**Step 3: balance.** 1,000 − 2,620 = **−1,620**, so **Priya owes ₹1,620.**
+**Step 3: balance.** 1,000 − 2,620 = **−1,620**, so **Prem owes ₹1,620.**
 
 **SAY:**
-> "With a naive five-way dinner split, Priya's share would be ₹3,100 instead of
+> "With a naive five-way dinner split, Prem's share would be ₹3,100 instead of
 > ₹2,620, and she'd owe ₹2,100. That's ₹480 wrong because of one judgment call,
 > even with perfect arithmetic."
 
@@ -280,7 +280,7 @@ cab, or including the fuel or boat ride.
 |---|---:|---:|---:|---|
 | Arjun | 3,000 (E1 + E6) | 3,220 | **−220** | owes |
 | Meera | 3,200 (E2 + E3) | 3,220 | **−20** | owes |
-| Priya | 1,000 (E5) | 2,620 | **−1,620** | owes |
+| Prem | 1,000 (E5) | 2,620 | **−1,620** | owes |
 | Rahul | 0 | 3,220 | **−3,220** | owes |
 | Dev | 8,300 (E4) | 3,220 | **+5,080** | receives |
 | **Check** | **15,500** | **15,500** | **0** | |
@@ -288,7 +288,7 @@ cab, or including the fuel or boat ride.
 Each food eater's share: 300 + 600 + 160 + 1,660 + 200 + 300 = 3,220.
 
 **Minimum transfers (4):** Arjun → Dev ₹220 · Meera → Dev ₹20 ·
-Priya → Dev ₹1,620 · Rahul → Dev ₹3,220.
+Prem → Dev ₹1,620 · Rahul → Dev ₹3,220.
 
 These figures were checked with `settle.py` on the confirmed ledger above. The
 result is **provisional**. The boat ride (₹2,400, Rahul paid) and the fuel (Dev paid)

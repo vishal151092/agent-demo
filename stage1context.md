@@ -56,7 +56,7 @@ It takes about 50 seconds and 5–8 tool calls.
 | Boat ride, M007/M008 | Excluded; ask who boarded | **₹2,400 split across all five** |
 | Fuel, M009 "~2k" | Excluded; ask the exact amount | **Entered as ₹2,000.00** |
 | Total | ₹15,500 | **₹19,900** |
-| Priya pays Dev | ₹1,620 | **₹2,500** |
+| Prem pays Dev | ₹1,620 | **₹2,500** |
 | Rahul pays Dev | ₹3,220 | **₹1,700** |
 
 **SAY:** "Every transfer is wrong. The arithmetic is perfect, because `settle.py` did it.

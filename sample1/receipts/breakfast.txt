@@ -2,6 +2,6 @@ Receipt ID: R004
 Vendor: Morning Cup (fictional)
 Service date: 2026-11-15
 Total: INR 1000.00
-Paid by: Priya
-Diners: Arjun, Meera, Priya, Rahul, Dev
+Paid by: Prem
+Diners: Arjun, Meera, Prem, Rahul, Dev
 Payment status: paid

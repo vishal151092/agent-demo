@@ -3,9 +3,9 @@ All names, messages, vendors, and expenses are fictional.
 
 M001 | 2026-11-14 09:10 | Arjun: Paid INR 1500 for the airport-to-hostel cab. All five of us rode together.
 M002 | 2026-11-14 21:20 | Meera: Paid INR 3200 for dinner at Sunset Table. Receipt saved.
-M003 | 2026-11-14 21:22 | Priya: I only had drinks at dinner. Arjun, Meera, Rahul and Dev had the food. All five shared the drinks.
+M003 | 2026-11-14 21:22 | Prem: I only had drinks at dinner. Arjun, Meera, Rahul and Dev had the food. All five shared the drinks.
 M004 | 2026-11-14 22:00 | Dev: Paid USD 100.00 for our hostel booking, both nights for all five. Saved the booking receipt.
-M005 | 2026-11-15 09:00 | Priya: Paid INR 1000 for breakfast at Morning Cup. All five ate, split equally.
+M005 | 2026-11-15 09:00 | Prem: Paid INR 1000 for breakfast at Morning Cup. All five ate, split equally.
 M006 | 2026-11-15 18:00 | Arjun: Paid INR 1500 for the hostel-to-airport cab today. All five rode together. This is a different ride from yesterday's cab.
 M007 | 2026-11-15 18:05 | Meera: I think Rahul skipped the boat ride yesterday.
 M008 | 2026-11-15 18:06 | Rahul: I paid INR 2400 for that boat ride. I booked it for the group; paying doesn't tell you who actually boarded.

@@ -2,7 +2,7 @@
 
 **Build an agent that turns a messy group-trip chat and receipts into a fair, explainable settlement, then make it faster and more economical without reducing accuracy.**
 
-The story: five friends just returned from a weekend trip. Expenses are spread across a WhatsApp export, a few receipt notes, and half-remembered messages: "I paid for the cab, add it," "Priya only had drinks," and "Wait, did anyone log the dinner?" Someone always ends up spending an evening sorting it out. Everyone has been that person, or has owed money to that person.
+The story: five friends just returned from a weekend trip. Expenses are spread across a WhatsApp export, a few receipt notes, and half-remembered messages: "I paid for the cab, add it," "Prem only had drinks," and "Wait, did anyone log the dinner?" Someone always ends up spending an evening sorting it out. Everyone has been that person, or has owed money to that person.
 
 **Platform:** VS Code with GitHub Copilot. Participants build a custom agent (`.github\agents\settle.agent.md`) with instructions and a small set of selected tools. Copilot runs the agent loop.
 
@@ -20,7 +20,7 @@ Seed the data with judgment calls like these:
 | Chat or receipt | What participants should notice |
 |---|---|
 | "Paid 3,200 for dinner" plus a receipt for ₹3,200 | Two sources describe one expense. Count it once. |
-| "Priya only had drinks" | The split isn't equal. The agent should apply the policy rather than guess. |
+| "Prem only had drinks" | The split isn't equal. The agent should apply the policy rather than guess. |
 | "Rahul skipped the boat ride" (said by someone else) | This is reported, not confirmed. Flag it and ask. |
 | "Fuel ~2k" | The amount is approximate. Ask for the exact figure instead of making one up. |
 | A receipt in USD for a hostel booking | A currency rule is needed. The rate belongs in the policy. |

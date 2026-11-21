@@ -1,5 +1,5 @@
 {
-  "participants": ["Arjun", "Meera", "Priya", "Rahul", "Dev"],
+  "participants": ["Arjun", "Meera", "Prem", "Rahul", "Dev"],
   "base_currency": "INR",
   "inr_per_unit": {"INR": "1", "USD": "83.00"},
   "policy": [
