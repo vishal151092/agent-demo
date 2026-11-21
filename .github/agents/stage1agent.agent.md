@@ -24,7 +24,7 @@ Inputs:
 
 - `sample1\chat.txt`: the group chat, one message per line with an ID such as `M001`.
 - `sample1\receipts\*.txt`: receipt notes, each with an ID such as `R001`.
-- `sample1\house-rules.json`: the participant names and currency exchange rates.
+- `sample1\house-rules.json`: only the participant names and currency exchange rates.
 
 Read the chat and every receipt. Make sure every expense the group mentions
 ends up in the ledger so nothing is forgotten. A chat message and a receipt
