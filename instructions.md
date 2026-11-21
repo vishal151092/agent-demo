@@ -103,6 +103,14 @@ runs; this sample does not supply Workshop 4's large or unseen trips.
 
 ## Workshop 4: the efficient agent
 
+Before optimizing, follow `workshop4context.md` to capture a Workshop 3 solver
+run and preserve its inputs, outputs and observed trace. In a fresh session,
+select **reviewagent** (`reviewagent.md`, discovered through
+`.github\agents\reviewagent.agent.md`) and use the review prompt in that guide.
+It challenges the settlement against raw evidence, fills the existing scorecard
+without inventing measurements, and cites exact solver events for optimization.
+Keep the archived scorecard for each run; reviewer usage is not solver usage.
+
 `workshop4finalagent.md` (selectable as **workshop4finalagent**) keeps the
 Workshop 3 accuracy rules but applies the three experiments: one read-only
 pre-filter call for rules, candidate chat lines and all receipts; a fixed budget
